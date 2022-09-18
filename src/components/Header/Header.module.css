@@ -1,0 +1,41 @@
+.View {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ width: 100%;
+ width: 98%;
+ margin: 2rem auto;
+ padding: 0 2rem;
+}
+
+.View p {
+ color: rgb(52, 245, 8);
+ font-size: 20px;
+ border-bottom: 1px solid white;
+ border-left: 7px solid white;
+ cursor: pointer;
+}
+
+.View ul li {
+ display: inline-block;
+ margin-right: 2rem;
+ color: white;
+ cursor: pointer;
+}
+
+.View ul li span {
+ color: rgb(52, 245, 8);
+ font-size: 20px;
+}
+
+.View ul li:hover,
+.View ul li span:hover {
+color: rgb(52, 245, 8);
+font-size: 20px;
+}
+
+.View ul li:last-child{
+ border: 1px solid rgb(52, 245, 8);
+ padding: 7px;
+ font-size: 25px;
+}

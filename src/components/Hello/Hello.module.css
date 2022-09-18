@@ -1,0 +1,32 @@
+.Hello {
+ color: white;
+ margin: 3rem auto;
+ width: 70%;
+ line-height:90px;
+}
+
+.Hello h1{
+ font-size: 70px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Hello h2 {
+ font-size: 40px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color: #a8b2d1;
+}
+
+.Hello span {
+ color: rgb(52, 245, 8);
+ font-size: 17px;
+ line-height: 30px;
+}
+
+.Hello p {
+ width: 90%;
+ line-height: 50px;
+}
+
+.Hello p span {
+ color: rgb(52, 245, 8);
+}
